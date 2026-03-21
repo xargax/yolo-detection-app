@@ -11,7 +11,7 @@ import gdown
 
 st.set_page_config(page_title='YOLO Detection', layout='wide')
 
-FILE_ID    = 'ВАШ_FILE_ID'  # <-- замените на свой
+FILE_ID    = '1Ehy-UdgyYk-O4XLZouEyGKj3opOtiMac'  # <-- замените на свой
 MODEL_PATH = 'best.pt'
 
 # Загрузка модели
